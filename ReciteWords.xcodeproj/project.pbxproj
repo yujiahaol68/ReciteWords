@@ -36,6 +36,7 @@
 		8C72FF5E1A83474800FAABCF /* ReciteWordsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReciteWordsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C72FF631A83474800FAABCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C72FF641A83474800FAABCF /* ReciteWordsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReciteWordsTests.swift; sourceTree = "<group>"; };
+		8C72FF6E1A83478100FAABCF /* JsonSolutuin.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JsonSolutuin.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				8C72FF551A83474800FAABCF /* Images.xcassets */,
 				8C72FF571A83474800FAABCF /* LaunchScreen.xib */,
 				8C72FF4C1A83474800FAABCF /* Supporting Files */,
+				8C72FF6E1A83478100FAABCF /* JsonSolutuin.playground */,
 			);
 			path = ReciteWords;
 			sourceTree = "<group>";
